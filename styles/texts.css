@@ -7,10 +7,44 @@
 }
 
 .title {
-
-
+    color: rgb(255, 255, 255);
     margin: 0;
 
     font-family: Palanquin;
     font-size: 50px;
+}
+
+.paragraph {
+
+    width: 500px;
+    height: 200px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.information {
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+#inputs-teoP {
+
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+
+#inputs-teoP-sub {
+    position: absolute;
+
+    width: 500px;
+    height: 200px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.input-teoP-items {
+
+    width: 100px;
 }
