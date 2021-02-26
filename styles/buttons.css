@@ -20,8 +20,8 @@ a.animated-button:link, a.animated-button:visited {
     /*~~~~~~~~~~~~~~~~~ Center ~~~~~~~~~~~~~~~~ */
 	position: relative;
 	display: block;
-	margin: 30px auto 0;
-	padding: 14px 15px;
+	margin: 30px  0;
+	padding: 10px 60px;
 
 	color: #fff;
 	font-size:14px;
@@ -61,8 +61,8 @@ a.animated-button:link:hover:after, a.animated-button:visited:hover:after {
 a.animated-button:link, a.animated-button:visited {
 	position: relative;
 	display: block;
-	margin: 30px auto 0;
-	padding: 14px 15px;
+	margin: 10px auto 0;
+	padding: 10px 60px;
 	color: #fff;
 	font-size:14px;
 	border-radius: 0;
@@ -76,7 +76,7 @@ a.animated-button:link, a.animated-button:visited {
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
 	-o-transition: all 1s ease;
-	transition: all 1s ease;
+	transition: all 2s ease;
 }
 
 /* Victoria Buttons */
